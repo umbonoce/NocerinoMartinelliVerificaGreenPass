@@ -1,6 +1,6 @@
 # NocerinoMartinelliVerificaGreenPass
 
-La cartella contiene codice sorgente e prodotto finale (apk) del progetto per la verifica delle certificazioni verdi covid-19.
+La cartella contiene codice sorgente e prodotto finale (apk) del progetto di informatica forense per la verifica delle certificazioni verdi covid-19.
 https://github.com/ministero-salute/it-dgc-verificac19-sdk-android
 
 Il verificatore utilizza le librerie sdk fornite dal ministero della salute ed ha un funzionamento analogo all'app verifica c19.
